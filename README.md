@@ -17,7 +17,7 @@
 
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/Todo-list/blob/main/image.png">
 
 ## Demo
 
