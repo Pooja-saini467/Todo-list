@@ -28,7 +28,6 @@ https://user-images.githubusercontent.com/90523453/155373728-d9254c3a-7074-4f8a-
 
 
 ## Live Link
-- Live Url
 - Pooja-saini467(https://pooja-saini467.github.io/Todo-list/)
 
 
