@@ -21,7 +21,10 @@
 
 ## Demo
 
- https://github.com/Pooja-saini467/Todo-list/blob/main/Demo.mp4
+ 
+https://user-images.githubusercontent.com/90523453/155373728-d9254c3a-7074-4f8a-ad52-5a62a7c6dce1.mp4
+
+
 
 
 ## Live Link
